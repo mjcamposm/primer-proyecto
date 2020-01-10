@@ -2,5 +2,7 @@
 primer proyecto de git con github
 
 ```
-<?php phpinfo(); ?>
+<?php 
+  phpinfo(); 
+?>
 ```
